@@ -1,0 +1,45 @@
+@font-face {
+    font-family: open sans;
+    src: url(OpenSans-Medium.ttf);
+}
+h1{
+    color: green;
+    letter-spacing: 20px;
+    word-spacing: 50px;
+}
+
+
+p{
+    text-indent: 50px;
+    text-align: center;
+}
+
+h2{
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+h3{
+    text-decoration: line-through;
+    text-transform: lowercase;
+    color: blue !important;
+
+}
+
+h4{
+  
+    text-decoration: underline;
+    font-size: 100px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.text-red{
+    color: red;
+}
